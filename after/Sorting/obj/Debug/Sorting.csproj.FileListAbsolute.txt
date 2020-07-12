@@ -1,0 +1,6 @@
+C:\Users\Ariel\Desktop\after\Sorting\bin\Debug\Sorting.dll
+C:\Users\Ariel\Desktop\after\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Ariel\Desktop\after\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\Ariel\Desktop\after\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\after\Sorting\obj\Debug\Sorting.dll
+C:\Users\Ariel\Desktop\after\Sorting\obj\Debug\Sorting.pdb
